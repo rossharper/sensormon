@@ -7,6 +7,5 @@
     "type": "git",
     "url": "https://rossharper@github.com/rossharper/sensormon.git"
   },
-  "author": "Ross Harper <ross@rossharper.net>",
-  "license": "ISC"
+  "author": "Ross Harper <ross@rossharper.net>"
 }
